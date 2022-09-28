@@ -6,9 +6,9 @@ import './Main.css';
 
 const Main = () => {
     return (
-        <div className="col col-md-9 order-last order-md-first  bg-light">
-            <div><h2><img className="w-10" src={logoM1} alt="" />HYPER</h2></div>
-            <h4>Select today’s exercise</h4>
+        <div className="col col-md-9 order-last order-md-first  bg-navy">
+            <span className="my-5 d-flex justify-content-center"><img className="w-10 me-4" src={logoM1} alt="" /><h2>HYPER</h2></span>
+            <h4 className="mt-2">Select today’s exercise</h4>
             <Activities></Activities>
             <Faq></Faq>
         </div>

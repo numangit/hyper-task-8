@@ -1,3 +1,12 @@
 .w-10 {
-    width: 30px;
+    width: 35px;
+}
+
+.bg-navy {
+    background-color: #05142c;
+    color: #EEEEEE;
+}
+
+.bg-light-navy {
+    background-color: #02354e;
 }
