@@ -1,0 +1,44 @@
+[
+    {
+        "id": "6334a94025e0010f5df12ee1",
+        "picture": "http://placehold.it/32x32",
+        "timeRequired": 34,
+        "title": "Read",
+        "about": "Read a chapter from your favourite book.\r\n"
+    },
+    {
+        "id": "6334a9407bb4a8800e9f736e",
+        "picture": "http://placehold.it/32x32",
+        "timeRequired": 38,
+        "title": "Code",
+        "about": "Code something new that you have learned.\r\n"
+    },
+    {
+        "id": "6334a9405574015dc2bf53a4",
+        "picture": "http://placehold.it/32x32",
+        "timeRequired": 35,
+        "title": "Workout",
+        "about": "Do some light workout to stay healthy.\r\n"
+    },
+    {
+        "id": "6334a9409e03c0fdff56897a",
+        "picture": "http://placehold.it/32x32",
+        "timeRequired": 27,
+        "title": "Cook",
+        "about": "Cook something delicious to eat.\r\n"
+    },
+    {
+        "id": "6334a94012a55c02cede2631",
+        "picture": "http://placehold.it/32x32",
+        "timeRequired": 39,
+        "title": "Entertainment",
+        "about": "Watch something interesting as a reward to yourself.\r\n"
+    },
+    {
+        "id": "6334a9405f631e5a579f2433",
+        "picture": "http://placehold.it/32x32",
+        "timeRequired": 29,
+        "title": "Chess",
+        "about": "Play chess and train your brain.\r\n"
+    }
+]
