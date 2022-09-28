@@ -1,10 +1,14 @@
 import './App.css';
-import Faq from './components/Faq/Faq';
+import Main from './components/Main/Main';
+import UserDetails from './components/UserDetails/UserDetails';
 
 function App() {
   return (
     <div className="">
-      <Faq></Faq>
+      <div className="row text-center">
+        <Main></Main>
+        <UserDetails></UserDetails>
+      </div>
     </div>
   );
 }

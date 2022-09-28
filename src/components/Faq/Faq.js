@@ -3,8 +3,8 @@ import React from 'react';
 const Faq = () => {
     return (
         <div>
-            <section className="container text-center my-5">
-                <h2 className="fw-semibold">Questions and Answers</h2>
+            <section className="container text-center my-5 bg-light">
+                <h2 className="fw-semibold">FQA</h2>
                 {/* Question 1 */}
                 <div className="accordion w-75 mx-auto my-4" id="accordionExample">
                     <h2 className="rounded border-5 border-secondary text-secondary" id="headingOne">
