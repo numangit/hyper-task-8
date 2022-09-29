@@ -34,7 +34,7 @@ const UserDetails = (props) => {
                 </div>
 
                 <p className="text-start fw-semibold">Activity Details</p>
-                <div className="bg-navy d-flex justify-content-between rounded-4 my-3 p-3">
+                <div className="bg-navy d-flex justify-content-between rounded-4 my-2 p-3">
                     <p className="fw-semibold m-1 p-0">Activity time</p>
                     <p className="text-muted m-1 p-0">{activityTime ? activityTime + ' minutes' : '0 minute'}</p>
                 </div>
@@ -43,7 +43,7 @@ const UserDetails = (props) => {
                     <p className="text-muted m-1 p-0">{storedBreakTime ? storedBreakTime + ' minutes' : '0 minute'}</p>
                 </div>
 
-                <button onClick={notify} className="btn btn-success fw-bold w-75 mt-2">Activity Completed</button>
+                <button onClick={notify} className="btn btn-success fw-bold w-75 mt-3">Activity Completed</button>
                 <ToastContainer />
             </div>
         </div >

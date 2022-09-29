@@ -13,7 +13,7 @@ const Profile = () => {
                 </div>
             </div>
             <div className="bg-navy d-flex justify-content-evenly rounded-4 my-2 p-3">
-                <p className="m-0 p-0" ><small>Uncertified Porgrammer | Foodie</small></p>
+                <p className="m-0 p-0" ><small>Uncertified Programmer | Foodie</small></p>
             </div>
             <div className="bg-navy d-flex justify-content-evenly rounded-4 my-2 p-3">
                 <div className="">
