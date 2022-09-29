@@ -7,6 +7,20 @@
         "about": "Read a chapter from your favourite book.\r\n"
     },
     {
+        "id": "6334a9405f631e5a579f2433",
+        "img": "https://i.pinimg.com/originals/50/15/80/501580625c0559aff4b12d1b212c0da7.png",
+        "timeRequired": 40,
+        "title": "Hiking",
+        "about": "Explore the beauty of heigh by hiking.\r\n"
+    },
+    {
+        "id": "6334a9405f631e5a579f2433",
+        "img": "https://welovedaily.com/media/pages/resources/35-outstanding-bicycle-illustrations/3665804343-1631837774/image_processing20200422-8684-jhsaxs.png",
+        "timeRequired": 55,
+        "title": "Cycling",
+        "about": "Let's have a adrenaline rush with a bicycle ride.\r\n"
+    },
+    {
         "id": "6334a94012a55c02cede2631",
         "img": "https://img.freepik.com/free-vector/characters-people-holding-multimedia-icons-illustration_53876-35228.jpg?w=2000",
         "timeRequired": 39,
@@ -40,5 +54,12 @@
         "timeRequired": 29,
         "title": "Chess",
         "about": "Play chess to imporve your thinking and skills.\r\n"
+    },
+    {
+        "id": "6334a9405f631e5a579f2433",
+        "img": "https://cdn.dribbble.com/users/1355613/screenshots/7412835/media/38a38d3aafc376aead600177da2f96af.jpg?compress=1&resize=400x300",
+        "timeRequired": 39,
+        "title": "Play Intrument",
+        "about": "Play intruments and unlock new muscle abilities.\r\n"
     }
 ]

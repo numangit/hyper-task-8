@@ -8,7 +8,7 @@ const Profile = () => {
             <div className="d-flex align-content-center ">
                 <img className="w-15 rounded-circle me-3" src={UserImg} alt="" />
                 <div>
-                    <p className="fw-semibold m-0 p-0">Abdul Al Numan</p>
+                    <p className="fw-semibold m-0 p-0">Abdul AL Numan</p>
                     <p className="fw-semibold text-warning text-start m-0 p-0 ">● Active</p>
                 </div>
             </div>
