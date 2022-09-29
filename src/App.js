@@ -13,12 +13,10 @@ function App() {
       .then(data => setActivities(data))
   }, [])
 
-  const addToList = (e) => {
-    console.log(e)
-    let selectActivityTime = 0;
-    // if () {
-    //   selectActivityTime += activityTime;
-    // }
+  const addToList = (activity) => {
+    console.log(activity.timeRequired)
+    let selectActivityTime = activityTime + activity.timeRequired;
+
     setActivityTime(selectActivityTime)
   }
 

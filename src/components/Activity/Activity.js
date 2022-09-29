@@ -13,7 +13,7 @@ const Activity = (props) => {
                         <h5 className="card-title fw-bolder">{title}</h5>
                         <p className="card-text">{about}</p>
                         <p><small><strong>Time Required :</strong> {timeRequired} <span className="text-muted fw-semibold">minutes</span></small></p>
-                        <button onClick={addToList} className="btn btn-success w-75">Add to list</button>
+                        <button onClick={() => addToList(props.activity)} className="btn btn-success w-75">Add to list</button>
                     </div>
                 </div>
             </div>
