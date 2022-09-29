@@ -10,9 +10,9 @@ const Activity = (props) => {
                 <div className="card bg-light-navy">
                     <img src={img} class="card-img-top" alt="..." />
                     <div className="card-body">
-                        <h5 className="card-title">{title}</h5>
+                        <h5 className="card-title fw-bolder">{title}</h5>
                         <p className="card-text">{about}</p>
-                        <p><strong>Time Required :</strong> {timeRequired}</p>
+                        <p><strong>Time Required :</strong> {timeRequired} <span className="text-muted fw-semibold">minutes</span> </p>
                         <button className="btn btn-success w-75">Add to list</button>
                     </div>
                 </div>
