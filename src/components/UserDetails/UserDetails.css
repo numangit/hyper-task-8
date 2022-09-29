@@ -3,10 +3,10 @@
     color: #EEEEEE;
 }
 
-/* .sticky-side {
-    position: fixed;
+.side-bar-sticky {
+    position: sticky;
     top: 0;
-} */
+}
 
 .w-15 {
     width: 50px;

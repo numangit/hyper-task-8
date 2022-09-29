@@ -22,8 +22,8 @@ const Profile = () => {
                     <p className=" m-0 p-0">Hight</p>
                 </div>
                 <div className="">
-                    <p className="m-0 p-0" >23<small className="text-muted m-0 p-0"> yrs</small></p>
-                    <p className=" m-0 p-0">Age</p>
+                    <p className="m-0 p-0" >6<small className="text-muted m-0 p-0">/day</small></p>
+                    <p className=" m-0 p-0">Activity</p>
                 </div>
             </div>
         </div>
